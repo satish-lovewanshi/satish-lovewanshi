@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satish-lovewanshi
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Php | Laravel | Python | Django
+- 🌱 I’m currently work on Php | Laravel | Python | Django
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach via gmail :- satishlovewanshi1900@gmail.com or https://www.linkedin.com/in/satish-lovewanshi/
 
